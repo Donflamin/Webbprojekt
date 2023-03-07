@@ -1,1 +1,49 @@
-Här finns all kod, alltså CSS och HTML bland annat.
+Planering
+
+Definiera, beskriv och förklara webbplatsens buisness objectives
+Skapa en moodboard  [klart]
+Skapa en sitemap
+Definiera Call To Actions för varje undersida
+Bestäm ett färgschema och typsnitt för webbplatsen  [klart]
+Undersök vad Bootstrap kräver
+Diskutera hur logotypen skulle kunna se ut  [klart]
+Skall ni ha sociala medier på sidan? Som Mastodon/Twitter/Facebook/Identi.ca/Flickr/… … … ?
+Finns det andra tjänster (widgets) som skulle göra sidan bättre?
+Skapa relevanta wireframes (en för förstasidan, en för varje typ av undersida, samt varianter för plattor och mobiler)
+Skapa en genomtänkt katalogstruktur och skapa alla filer ni behöver  [klart]
+Fyll alla filer med Lorem Ipsum så ni har något att arbeta med
+Sammanställ informationen ovan och lägg till det som saknas för att få en komplett style guide
+
+
+
+Konstruktion
+
+Skapa en logotype i Inkscape
+Ersätt exempeldata på index.html med skarpt innehåll
+Layout
+Widgets
+Ersätt exempeldata med skarpt innehåll på övriga undersidor
+Typografi
+Bakgrunder
+Färgschema
+Lägg till länkad logotyp till TC Stenungsund
+Optimera rastergrafik
+Se till att ni har minst en tydligt CTA på varje sida
+Tips! Bootstrap har ett pattern library där ni kan finna många färdiga komponenter som går att anpassa och använda på er webbplats.
+
+Om ni har FTP-access
+Installera ett besökaranalysverktyg
+Installera Discourse eller liknande
+
+
+Överkurs
+
+Lägg till animation och transition
+Implementera darkmode
+Verifiering
+Genomför alla tester nedan, fundera över varför resultaten ser ut som de gör och uppdatera er Style Guide samt er kod med lämpliga förbättringar. Med en sökmotors hjälp finner ni snabbt många 100 verktyg på nätet som hjälper er med nedanstående tester, en del i uppgiften är att hitta några som förefaller mer trovärdiga och detaljerade än andra och använda dessa.
+
+All kod skall gå igenom W3Cs validering
+Testa hastighet
+Testa kontrast
+Genomför användartester
