@@ -1,8 +1,10 @@
 Planering
 
+
+ hej
 Definiera, beskriv och förklara webbplatsens buisness objectives
 Skapa en moodboard  [klart]
-Skapa en sitemap
+Skapa en sitemap   [klart]
 Definiera Call To Actions för varje undersida
 Bestäm ett färgschema och typsnitt för webbplatsen  [klart]
 Undersök vad Bootstrap kräver
