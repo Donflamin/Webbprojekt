@@ -1,7 +1,6 @@
 Planering
 
 
- hej
 Definiera, beskriv och förklara webbplatsens buisness objectives
 Skapa en moodboard  [klart]
 Skapa en sitemap   [klart]
