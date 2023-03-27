@@ -12,7 +12,7 @@ Skall ni ha sociala medier på sidan? Som Mastodon/Twitter/Facebook/Identi.ca/Fl
 Finns det andra tjänster (widgets) som skulle göra sidan bättre?
 Skapa relevanta wireframes (en för förstasidan, en för varje typ av undersida, samt varianter för plattor och mobiler)  [klart]
 Skapa en genomtänkt katalogstruktur och skapa alla filer ni behöver  [klart]
-Fyll alla filer med Lorem Ipsum så ni har något att arbeta med
+Fyll alla filer med Lorem Ipsum så ni har något att arbeta med  [klart]
 Sammanställ informationen ovan och lägg till det som saknas för att få en komplett style guide
 
 
@@ -24,9 +24,9 @@ Ersätt exempeldata på index.html med skarpt innehåll
 Layout
 Widgets
 Ersätt exempeldata med skarpt innehåll på övriga undersidor
-Typografi
+Typografi  [klart]
 Bakgrunder
-Färgschema
+Färgschema  [klart]
 Lägg till länkad logotyp till TC Stenungsund
 Optimera rastergrafik
 Se till att ni har minst en tydligt CTA på varje sida
