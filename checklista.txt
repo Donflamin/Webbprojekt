@@ -1,32 +1,32 @@
 Planering
 
 
-Definiera, beskriv och förklara webbplatsens buisness objectives
+Definiera, beskriv och förklara webbplatsens buisness objectives  [klart]
 Skapa en moodboard  [klart]
 Skapa en sitemap   [klart]
 Definiera Call To Actions för varje undersida
 Bestäm ett färgschema och typsnitt för webbplatsen  [klart]
 Undersök vad Bootstrap kräver
 Diskutera hur logotypen skulle kunna se ut  [klart]
-Skall ni ha sociala medier på sidan? Som Mastodon/Twitter/Facebook/Identi.ca/Flickr/… … … ?
+Skall ni ha sociala medier på sidan? Som Mastodon/Twitter/Facebook/Identi.ca/Flickr/… … … ?  [klart]
 Finns det andra tjänster (widgets) som skulle göra sidan bättre?
-Skapa relevanta wireframes (en för förstasidan, en för varje typ av undersida, samt varianter för plattor och mobiler)
+Skapa relevanta wireframes (en för förstasidan, en för varje typ av undersida, samt varianter för plattor och mobiler)  [klart]
 Skapa en genomtänkt katalogstruktur och skapa alla filer ni behöver  [klart]
-Fyll alla filer med Lorem Ipsum så ni har något att arbeta med
+Fyll alla filer med Lorem Ipsum så ni har något att arbeta med  [klart]
 Sammanställ informationen ovan och lägg till det som saknas för att få en komplett style guide
 
 
 
 Konstruktion
 
-Skapa en logotype i Inkscape
+Skapa en logotype i Inkscape  [klart]
 Ersätt exempeldata på index.html med skarpt innehåll
 Layout
 Widgets
 Ersätt exempeldata med skarpt innehåll på övriga undersidor
-Typografi
+Typografi  [klart]
 Bakgrunder
-Färgschema
+Färgschema  [klart]
 Lägg till länkad logotyp till TC Stenungsund
 Optimera rastergrafik
 Se till att ni har minst en tydligt CTA på varje sida
