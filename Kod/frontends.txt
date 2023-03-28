@@ -1,0 +1,12 @@
+hover 
+https://codepen.io/JoostKiens/pen/LLMoeW HTML, CSS, JS (BABEL)
+https://codepen.io/numerical/pen/XJKeop HTML, CSS, JS
+--
+annat
+https://codepen.io/lichin-lin/pen/ZOoGvx HTML (PUG), CSS (STYLUS), JS
+--
+navbar
+https://codepen.io/jenning/pen/wXQJeP HTML, CSS (SASS)
+https://codepen.io/scottyzen/pen/JzbBpo HTML, CSS, JS (BABEL)
+https://codepen.io/ryanmorr/pen/LVzYmx/ HTML, CSS, JS
+
