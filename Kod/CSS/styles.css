@@ -15,13 +15,12 @@ html, body {
 }
 .main {
   display: block;
-  margin: 0;
 }
-.first {
+
+.main > .first {
+  padding: 20px 30px 10px;
   background-image: url("../Bilder/nature\ bag.jpg");
   background-size: cover;
-  margin: 0;
-  padding: 0;
 }
 /* Navbar style start */
 .menu {
