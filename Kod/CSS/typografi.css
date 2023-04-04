@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Lato";
+    src: local("Lato"),
+    url("../Typsnitt/Lato/Lato-Regular.ttf")
+  }
+  @font-face {
+    font-family: "Montserrat";
+    src: local("Montserrat"),
+    url("../Typsnitt/Montserrat/static/Montserrat-Regular.ttf")
+  }
