@@ -16,31 +16,21 @@ html, body {
   position: relative;
 }
 
-.first {
-  padding: 20px 30px 10px;
+.image {
+  padding: 20px; 
   background-image: url("../Bilder/nature\ bag.jpg");
   background-size: cover;
-  height: 700px;
+  height: 800px;
+  background-color: grey;
 }
 
-.second {
-  transform: skewY(-6deg);
-  transform-origin: top left;
-  background: #343a40;
-  height: 200px;
-  margin: 0;
-}
-
-p {
-  margin: inherit;
-}
 
 /* Navbar style start */
 :root {
-  --color-primary: #18181A;
-  --color-secondary: #75757C;
-  --color-dark: #364C62;
-  --color-light: #F5F5F5;
+  --color-primary: #009688;
+  --color-secondary: #2196F3;
+  --color-dark: #333333;
+  --color-light: #f5f5f5;
   --font-family-primary: 'Roboto Mono', monospace;
   --font-family-secondary: 'Rubik Mono One', sans-serif;
   --td: 150ms;
@@ -102,7 +92,7 @@ p {
   width: 2rem;
 }
 [id="main-navigation-toggle"] ~ label span::before, [id="main-navigation-toggle"] ~ label span::after {
-  background-color: var(--color-dark);
+  background-color: #2196F3;
   bottom: 0;
   content: '';
   height: 4px;
