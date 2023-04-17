@@ -1,8 +1,8 @@
 
+
 @charset "UTF-8";
 body {
   font-family: 'Big Shoulders Text', cursive;
-  background-color: #05c534 !important;
 }
 .clip {
   z-index: 2;
