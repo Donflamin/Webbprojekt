@@ -23,66 +23,69 @@
   }
 }
 html {
-  scrollbar-color: rgb(14, 38, 92) rgb(32, 141, 32);
+  scrollbar-color: rgb(14, 38, 92), rgb(32, 141, 32);
 }
 html::-webkit-scrollbar {
-  color: rgb(44, 57, 44) rgb(20, 20, 5);
+  color: rgb(44, 57, 44), rgb(20, 20, 5);
 }
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  margin: 0;
   background: #f5f5f5;
   overflow-x: hidden;
-  position: relative; 
+  margin: 0;
 }
 
-section h1 {
+h1 {
   font-family: Thunder, Archivo, Lato;
   font-weight: bold;
   color: #f5f5f5;
   text-align: center;
   margin: 0;
-  padding: clamp(0.5rem, 12vh, 1rem);
-  font-size: clamp(1.5rem, 8vw, 6rem);
+  font-size: clamp(2.2rem, 8vw, 20rem);
   line-height: 2;
   animation: text-animation 55s infinite alternate;
 }
 
+h2 {
+  font-family: Thunder, Archivo, Lato;
+  font-weight: bold;
+  color: #009688;
+  text-align: left;
+  margin: 0;
+  line-height: 1;
+  font-size: max(1.5rem, 10vw);
+}
+
 .image {
   background-size: cover;
-  width: 100%;
   margin: 0;
 }
 
 .first {
   background-image: url("../Bilder/natur.jpg");
-  position: relative;
-  height: max(14rem, 40vw);
+  height: -moz-fit-content;
+  height: fit-content;
+  padding: max(2rem, 6vw) max(1rem, 3vw);
 }
 
 .second {
-  position: relative;
+  height: -moz-fit-content;
+  height: fit-content;
+  margin: min(4rem, 6vw);
 }
-.second p {
+
+p {
   color: #333333;
   font: normal normal normal normal clamp(0.9rem, 1.9vw, 4rem)/1.5 Montserrat, sans-serif;
   letter-spacing: 0.1rem;
   position: relative;
   padding: 0 max(5vw, 1.5rem);
   margin: 0 max(5vw, 1.5rem);
-  top: 4rem;
-  height: 20rem;
 }
-.second::before {
-  content: "";
-  display: block;
-  position: absolute;
-  width: 100%;
-  height: 25vh;
-  top: -3rem;
-  background-color: #f5f5f5;
-  transform: skewY(-3deg);
+
+.under {
+  margin: 0 clamp(0.2rem, 2.5vw, 8rem);
 }
 
 .gradient-text {
