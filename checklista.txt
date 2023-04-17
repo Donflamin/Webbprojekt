@@ -4,15 +4,31 @@ Planering
 Definiera, beskriv och förklara webbplatsens buisness objectives  [klart]
 Skapa en moodboard  [klart]
 Skapa en sitemap   [klart]
-Definiera Call To Actions för varje undersida
+Definiera Call To Actions för varje undersida  [klart]
 Bestäm ett färgschema och typsnitt för webbplatsen  [klart]
+
 Undersök vad Bootstrap kräver
+
 Diskutera hur logotypen skulle kunna se ut  [klart]
+<<<<<<< Updated upstream
 Skall ni ha sociala medier på sidan? Som Mastodon/Twitter/Facebook/Identi.ca/Flickr/… … … ?  [klart]
 Finns det andra tjänster (widgets) som skulle göra sidan bättre?
 Skapa relevanta wireframes (en för förstasidan, en för varje typ av undersida, samt varianter för plattor och mobiler)  [klart]
 Skapa en genomtänkt katalogstruktur och skapa alla filer ni behöver  [klart]
 Fyll alla filer med Lorem Ipsum så ni har något att arbeta med  [klart]
+=======
+
+Skall ni ha sociala medier på sidan? Som Mastodon/Twitter/Facebook/Identi.ca/Flickr/… … … ?
+
+Finns det andra tjänster (widgets) som skulle göra sidan bättre?
+
+Skapa relevanta wireframes (en för förstasidan, en för varje typ av undersida, samt varianter för plattor och mobiler)
+
+Skapa en genomtänkt katalogstruktur och skapa alla filer ni behöver  [klart]
+
+Fyll alla filer med Lorem Ipsum så ni har något att arbeta med
+
+>>>>>>> Stashed changes
 Sammanställ informationen ovan och lägg till det som saknas för att få en komplett style guide
 
 
