@@ -1,5 +1,4 @@
 
-
 @charset "UTF-8";
 body {
   font-family: 'Big Shoulders Text', cursive;
@@ -115,7 +114,7 @@ body {
   max-width: 800px;
   width: calc(100vw - 8rem);
 }
-.container .header {
+.container  {
   z-index: 1;
   align-self: stretch;
   display: flex;
@@ -129,12 +128,12 @@ body {
   line-height: 4rem;
   font-size: 1.75rem;
 }
-.container .header .section-width {
+.container  .section-width {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
-.container .header .logotext  {
+.container  .logotext  {
   font-weight: 900;
   letter-spacing: 1.2rem;
   color: var(--iconColor);
@@ -156,60 +155,60 @@ body {
     color: var(--text1);
   }
 }
-body .container .page {
+body .container  {
   position: relative;
   margin: 2rem 0;
   padding: 2rem;
 }
-body .container .page:not(:last-child) {
+body .container .:not(:last-child) {
   margin-bottom: 0rem;
 }
-body .container .page:target-within {
+body .container :target-within {
   border-color: var(--iconColor) !important;
 }
-body .container .page h1, body .container .page h2, body .container .page h3, body .container .page h4, body .container .page h5, body .container .page h6 {
+body .container  h1, body .container  h2, body .container  h3, body .container  h4, body .container  h5, body .container  h6 {
   margin: 0;
 }
-body .container .page h1:last-child, body .container .page h2:last-child, body .container .page h3:last-child, body .container .page h4:last-child, body .container .page h5:last-child, body .container .page h6:last-child {
+body .container  h1:last-child, body .container  h2:last-child, body .container  h3:last-child, body .container  h4:last-child, body .container  h5:last-child, body .container  h6:last-child {
   margin-bottom: 0;
 }
-body .container .page h1 {
+body .container  h1 {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   padding-bottom: 1rem;
   border-bottom: 1px solid var(--borderColor);
 }
-body .container .page h1 a {
+body .container  h1 a {
   text-decoration: none;
   font-weight: 200;
 }
-body .container .page h1 a:hover {
+body .container  h1 a:hover {
   font-weight: 400;
 }
-body .container .page p:last-child {
+body .container  p:last-child {
   margin-bottom: 0;
 }
-body .container .page a {
+body .container  a {
   color: var(--iconColor);
 }
-body .container .page a:not(:hover) {
+body .container  a:not(:hover) {
   text-decoration: none;
 }
-body .container .page i {
+body .container  i {
   color: var(--text2);
   font-family: "Poly", sans-serif;
 }
-body .container .page ul {
+body .container  ul {
   list-style: none;
   padding-left: 1rem;
 }
-body .container .page ul li:before {
+body .container  ul li:before {
   content: "•";
   margin-right: 1rem;
   color: var(--iconColor);
 }
-body .container .page > div[id] {
+body .container  > div[id] {
   position: absolute;
   top: calc(-6rem - 2px);
 }
