@@ -24,3 +24,16 @@ const scrollbind = el => el.bind("scroll", function(){
 		
 });
 scrollbind($(".container"));
+
+
+const btn = getElementById("btn");
+const body = getElementById("body");
+
+function(){
+	if (btn === true){
+		body.document(
+			"style",
+			"color: white;"
+		);
+	}
+}

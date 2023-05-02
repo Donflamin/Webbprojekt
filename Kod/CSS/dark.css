@@ -114,7 +114,7 @@ body {
   max-width: 800px;
   width: calc(100vw - 8rem);
 }
-.container  {
+.container .header {
   z-index: 1;
   align-self: stretch;
   display: flex;
@@ -128,12 +128,12 @@ body {
   line-height: 4rem;
   font-size: 1.75rem;
 }
-.container  .section-width {
+.container .header .section-width {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
-.container  .logotext  {
+.container .header .logotext  {
   font-weight: 900;
   letter-spacing: 1.2rem;
   color: var(--iconColor);
@@ -155,60 +155,60 @@ body {
     color: var(--text1);
   }
 }
-body .container  {
+body .container .page {
   position: relative;
   margin: 2rem 0;
   padding: 2rem;
 }
-body .container .:not(:last-child) {
+body .container .page:not(:last-child) {
   margin-bottom: 0rem;
 }
-body .container :target-within {
+body .container .page:target-within {
   border-color: var(--iconColor) !important;
 }
-body .container  h1, body .container  h2, body .container  h3, body .container  h4, body .container  h5, body .container  h6 {
+body .container .page h1, body .container .page h2, body .container .page h3, body .container .page h4, body .container .page h5, body .container .page h6 {
   margin: 0;
 }
-body .container  h1:last-child, body .container  h2:last-child, body .container  h3:last-child, body .container  h4:last-child, body .container  h5:last-child, body .container  h6:last-child {
+body .container .page h1:last-child, body .container .page h2:last-child, body .container .page h3:last-child, body .container .page h4:last-child, body .container .page h5:last-child, body .container .page h6:last-child {
   margin-bottom: 0;
 }
-body .container  h1 {
+body .container .page h1 {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   padding-bottom: 1rem;
   border-bottom: 1px solid var(--borderColor);
 }
-body .container  h1 a {
+body .container .page h1 a {
   text-decoration: none;
   font-weight: 200;
 }
-body .container  h1 a:hover {
+body .container .page h1 a:hover {
   font-weight: 400;
 }
-body .container  p:last-child {
+body .container .page p:last-child {
   margin-bottom: 0;
 }
-body .container  a {
+body .container .page a {
   color: var(--iconColor);
 }
-body .container  a:not(:hover) {
+body .container .page a:not(:hover) {
   text-decoration: none;
 }
-body .container  i {
+body .container .page i {
   color: var(--text2);
   font-family: "Poly", sans-serif;
 }
-body .container  ul {
+body .container .page ul {
   list-style: none;
   padding-left: 1rem;
 }
-body .container  ul li:before {
+body .container .page ul li:before {
   content: "•";
   margin-right: 1rem;
   color: var(--iconColor);
 }
-body .container  > div[id] {
+body .container .page > div[id] {
   position: absolute;
   top: calc(-6rem - 2px);
 }
