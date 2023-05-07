@@ -1,0 +1,165 @@
+
+
+.body{
+  background-color: #f5f5f5;
+}
+
+h1{
+  text-align: center;
+  height: 100p;
+/*  margin: 50px;
+  margin-top: 50px;*/
+
+}
+
+.title{
+  width: auto;
+  height: 100%;
+  background-image: url(../Bilder/Vind5kväll.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+p{
+  text-align: justify;
+}
+
+.bild{
+  width: 100%;
+  height: auto;
+  max-height: 192px;
+  border: solid black 2px;
+}
+
+.big{
+  background-color: none;
+
+  position: absolute;
+  right: 0px;
+  min-height: 246px;
+  height: 500px;
+  width: 100vw;
+
+  transform: rotate(-10deg);
+}
+
+.small{
+  position: absolute;
+  background-color: none;
+  transform: rotate(10deg);
+  height: 500px;
+  width: 100vw;
+
+}
+
+.container{
+  background-color: none;
+  border: solid black;
+  position: static;
+  top: 100px;
+  width: 100vw;
+}
+
+.column-2{
+  margin-top: 15px;
+}
+
+.pros{
+  background: #4caf50;
+}
+
+.cons{
+  background: #dc3545;
+}
+
+
+.boxer{
+  margin-top: 30px;
+}
+
+
+
+
+/*
+.columns{
+  float: left;
+  width: 50%;
+  padding: 10px;
+  min-height: 250px;
+  border: solid none;
+  display: table;
+
+}
+/*
+.row::after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 768px) {
+  .columns{
+    width: 100%;
+  }
+}
+
+/*
+.row{
+  border: solid green;
+  width: fit-content;
+}
+
+.columns{
+  float: left;
+  width: 50%;
+  padding: 10px;
+  min-height: 300px;
+  border: solid red;
+  
+}
+
+.row::after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/*
+.column-2{
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.bild{
+  border: solid black;
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+
+
+
+
+@media (max-width: 768px){
+  img{
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .columns{
+    width: 100%;
+  }
+}
+
+
+
+
+
+
+

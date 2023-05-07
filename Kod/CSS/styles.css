@@ -201,10 +201,12 @@ p {
 
 [id=main-navigation-toggle]:checked ~ label span::before {
   transform: rotate(45deg);
+/*  background-color: #ffeb3b;*/
 }
 
 [id=main-navigation-toggle]:checked ~ label span::after {
   transform: rotate(-45deg);
+/*  background: #ffeb3b;*/
 }
 
 [id=main-navigation-toggle]:checked ~ .nav-main {
