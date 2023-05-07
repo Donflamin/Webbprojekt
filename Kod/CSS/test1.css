@@ -26,6 +26,12 @@ p{
   text-align: justify;
 }
 
+/*
+*{
+  text-align: justify;
+}
+*/
+
 .bild{
   width: 100%;
   height: auto;
@@ -77,9 +83,12 @@ p{
 
 .boxer{
   margin-top: 30px;
+  width: fit-content !important;
 }
 
-
+.card-body, .celler, .rester, .kraft{
+  border: solid #333333 !important;
+}
 
 
 /*
