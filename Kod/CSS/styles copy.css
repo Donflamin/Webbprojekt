@@ -63,10 +63,12 @@ h2 {
 }
 
 .first {
-  background-image: url("../Bilder/natur.jpg");
-  height: -moz-fit-content;
+  background-image: url("../Bilder/Vind3Dag.jpg");
+  max-width: 100%;
+  max-height: 100%;
+ /* height: -moz-fit-content;
   height: fit-content;
-  padding: max(2rem, 6vw) max(1rem, 3vw);
+  padding: max(2rem, 6vw) max(1rem, 3vw);*/
 }
 
 .second {
@@ -201,12 +203,10 @@ p {
 
 [id=main-navigation-toggle]:checked ~ label span::before {
   transform: rotate(45deg);
-/*  background-color: #ffeb3b;*/
 }
 
 [id=main-navigation-toggle]:checked ~ label span::after {
   transform: rotate(-45deg);
-/*  background: #ffeb3b;*/
 }
 
 [id=main-navigation-toggle]:checked ~ .nav-main {
