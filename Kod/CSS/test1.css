@@ -65,7 +65,9 @@ p{
   border: solid black;
   position: static;
   top: 100px;
-  width: 100vw;
+  max-width: fit-content !important;
+  
+
 }
 
 .column-2{
