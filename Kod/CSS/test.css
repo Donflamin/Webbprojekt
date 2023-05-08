@@ -1,3 +1,8 @@
+.dark {
+  background-color: black;
+  color: white;
+}
+
 @font-face {
   font-family: "Montserrat";
   src: local("Montserrat"), url("../Typsnitt/Montserrat/Montserrat-VariableFont_wght.ttf");
