@@ -159,7 +159,7 @@
   outline: red solid 1px !important;
 }
 */
-.menu {
+.menu{
   position: relative;
   text-align: center;
   z-index: 1;
@@ -301,6 +301,48 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.kort{
+
+}
+
+
+
+.body{
+  background-color: #f5f5f5;
+  background-color: #20c997;
+
+}
+
+h1{
+  text-align: center;
+  height: 100p;
+  margin: 2%;
+  margin-top: 2%;*/
+
+}
+
+h5{
+  text-align: center;
+  height: 100p;
+  margin: 2%;
+  margin-top: 5% !important;
+  margin-top: 2%;*/
+}
+
 .bottom{
   background-color: #2196F3;
 
@@ -314,17 +356,6 @@ height: auto;
 
 
 
-.body{
-  background-color: #f5f5f5;
-}
-
-h1{
-  text-align: center;
-  height: 100p;
-/*  margin: 50px;
-  margin-top: 50px;*/
-
-}
 
 .title{
   width: auto;
@@ -376,7 +407,7 @@ p{
 
 .cont1{
   background-color: none;
-  border: solid red;
+  /*border: solid red;*/
   position: static;
   top: 100px;
   max-width: fit-content !important;
@@ -396,16 +427,27 @@ p{
   background: #dc3545;
 }
 
+.cons{
+  margin-top: 10px;
+}
 
 .boxer{
   margin-top: 30px;
+  margin-bottom: 20px;
   width: fit-content !important;
 }
 
 .card-body, .celler, .rester, .kraft{
   border: solid #333333 !important;
+*/
 }
 
+.card-1, .card-2, .card-3{
+  height: 100%;
+/*  border: solid black;
+  margin: 10px;
+*/
+}
 
 /*
 .columns{
