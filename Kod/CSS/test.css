@@ -26,9 +26,16 @@
 }
 
 
+
+
 .dark {
-  background-color: black;
+  transition: .3s;
+  background-color: none;
   color: white;
+}
+
+body.dark{
+  background-color: rgb(20, 139, 148);
 }
 
 
