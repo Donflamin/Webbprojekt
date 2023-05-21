@@ -26,7 +26,9 @@
 }
 
 
-
+/*:root[data-theme='light'] {
+  --primarybackground: rgb(197, 24, 24);
+}*/
 
 .dark {
   transition: .3s;
@@ -37,6 +39,10 @@
 body.dark{
   background-color: rgb(20, 139, 148);
 }
+/*body.light{
+  background-color: rgb(94, 187, 19);
+
+}*/
 
 
 html {

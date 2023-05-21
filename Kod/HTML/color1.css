@@ -1,4 +1,13 @@
 
+.logo{
+    background: url(../Bilder/webbprojekt1.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 200px !important; 
+}
+
+
+
 .nav{
     background-color: #6c757d;
 }
