@@ -1,0 +1,65 @@
+
+.nav{
+    background-color: #6c757d;
+}
+
+a{
+    color: #f5f5f5 !important;
+}
+
+.navbar-toggler-icon{
+    background: url(../Bilder/menu-icon.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+body{
+    background-color: #f5f5f5;
+    color: #333333;
+   /* background: url(../Bilder/Vind/Vind2.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+    aspect-ratio: 16 / 9;
+    aspect-ratio: auto || <ratio>;*/
+}
+
+.olika{
+    background-image: url(../Bilder/);
+}
+
+
+.content{
+    box-shadow: 0 0 .5rem #7a7a7a7a;
+    background-color: #e9eff3;
+
+}
+
+/*h1{
+    background: url(../Bilder/Vind/Vind2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    aspect-ratio: 16 / 9;
+    height: auto;
+    width: 100%;
+
+}*/
+
+/*.first{
+    background-image: url(../Bilder/Vind/Vind5Kväll.jpg);
+    height: fit-content;
+    background-size: cover ;
+    object-fit: cover;
+    aspect-ratio: 16/9;
+}*/
+
+.bild-2{
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
+
+.hero{
+    color:#f5f5f5;
+    background-color: #343a40;
+}
