@@ -16,12 +16,19 @@ const btn = document.getElementById('btn');
                 console.log('hej')
             }
             else{
-                for (let i = 0; i < elmWitchChange.length; i++) {
+
+
+              
+                /*for (let i = 0; i < elmWitchChange.length; i++) {
                     elmWitchChange[i].classList.toggle('dark')
                 }
-                document.cookie = 'Mode=0;'
+                document.cookie = 'Mode=0;'*/
+
             };
         });
+
+
+
 
 window.onload = function start(){
     var elmWitchChange = document.getElementsByClassName('light')
@@ -49,6 +56,3 @@ window.onload = function start(){
 };
 
 
-:root[data-theme='light'] {
-    --primarybackground: #fff;
-}
