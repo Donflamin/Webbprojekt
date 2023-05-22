@@ -47,6 +47,8 @@ window.onload = function start(){
         console.log('hej')
     }
     else{
+  console.log('fan')
+
         for (let i = 0; i < elmWitchChange.length; i++) {
             elmWitchChange[i].classList.toggle('dark')
         }
