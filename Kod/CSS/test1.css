@@ -384,34 +384,19 @@ p{
   border: solid black 2px;
 }
 
-.big{
-  background-color: none;
-
-  position: absolute;
-  right: 0px;
-  min-height: 246px;
-  height: 500px;
-  width: 100vw;
-
-  transform: rotate(-10deg);
-}
-
-.small{
-  position: absolute;
-  background-color: none;
-  transform: rotate(10deg);
-  height: 500px;
-  width: 100vw;
-
-}
 
 .cont1{
   background-color: none;
+  border: solid red;
   /*border: solid red;*/
   position: static;
   top: 100px;
-  max-width: fit-content !important;
   
+  display: grid;
+
+  align-items: center;
+  
+    
 
 }
 
