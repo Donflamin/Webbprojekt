@@ -88,7 +88,7 @@ a:hover::before {
 }
 
 .section-first {
-  background-image: url("../Bilder/natur.jpg");
+  background-image: url("natur.jpg");
   background-size: cover;
   height: 100dvh;
   margin: 0;
