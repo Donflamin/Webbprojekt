@@ -5,16 +5,73 @@
     background-repeat: no-repeat;
     width: 200px !important;
     height: 100px !important; 
+
+:root[data-theme="light"]{
+  --primary-color: #e2dffb;
+  --secondary-color: #AEA9DF;
+  --tertiary-color: #4c6b91;
+  --bg-color: #ebeae5;
+  --light-color: #ebf2fa;
+  --dark-color: #171718;
+  --navbar-color: #6c757d;
+  --text-default-color: #0F0F10;
 }
 
+/*a3bdd3
+d4e7f7*/
 
+:root[data-theme="dark"]{
+    --primary-color: #211F2F;
+    --secondary-color: #393554;
+    --tertiary-color: #326628;
+    --bg-color: #141413;
+    --light-color: #ebf2fa;
+    --dark-color: #171718;
+    --navbar-color: #49446C;    
+    --text-default-color: #EAE8F8;
+}
+  
+
+body{
+    background-color: var(--primary-color) !important;
+}
+
+.content{
+    background-color: var(--secondary-color) !important;
+}
+
+p{
+    background-color: var(--text-color) !important;
+}
 
 .nav{
-    background-color: #6c757d;
+    background-color: var(--navbar-color) !important;
+
 }
 
+.dropdown-menu{
+    background-color: var(--primary-color) !important;
+    color: var(--text-default-color) !important;
+}
+
+
+.logo{
+    background: url(../Bilder/webbproject2.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: auto;
+    height: 50px;
+    image-rendering: 100%;
+}
+
+
+
+
+
+
+
 a{
-    color: #f5f5f5 !important;
+    color: var(--text-default-color) !important;
 }
 
 .navbar-toggler-icon{
@@ -24,8 +81,8 @@ a{
 }
 
 body{
-    background-color: #f5f5f5;
-    color: #333333;
+    background-color: var(--bg-color);
+    color: var(--text-default-color);
    /* background: url(../Bilder/Vind/Vind2.jpg);
     background-repeat: no-repeat;
     background-size: contain;
@@ -34,15 +91,13 @@ body{
     aspect-ratio: auto || <ratio>;*/
 }
 
-.olika{
-    background-image: url(../Bilder/);
-}
+
 
 
 .content{
     box-shadow: 0 0 .5rem #7a7a7a7a;
     background-color: #e9eff3;
-
+    background-color: var(--bg-color);
 }
 
 /*h1{
@@ -61,6 +116,10 @@ body{
     background-size: cover ;
     object-fit: cover;
     aspect-ratio: 16/9;
+}
+
+.olika{
+    background-image: url(../Bilder/);
 }*/
 
 .bild-2{
@@ -72,4 +131,89 @@ body{
 .hero{
     color:#f5f5f5;
     background-color: #343a40;
+}
+
+
+.button-box{
+    width: 15rem;
+    height: 15rem;
+    background: #e91e63;
+    border-radius: 0.375rem; 
+
+    position: absolute;
+    top: 75%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+
+    overflow: hidden;
+}
+
+.sun{
+    width: 6.25rem;
+    height: 6.25rem;
+    background: #b4acac;
+    border-radius: 50%;
+    cursor: pointer;
+
+    position: relative;
+
+    border: 0.131rem solid #e91e63;
+}
+
+.sun div{
+    height: 0.188rem;
+    background-color: #b4acac;
+
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: -1;
+
+    transition: width 0.5s;
+}
+
+.sun .line1{
+    width: 10rem;
+    transform:  translate(-50%, -50%);
+
+}
+
+.sun .line2{
+    width: 10rem;
+    transform:  translate(-50%, -50%) rotate(90deg);
+
+}
+
+.sun .line3{
+    width: 8.75rem;
+    transform:  translate(-50%, -50%) rotate(45deg);
+
+}
+
+.sun .line4{
+    width: 8.75rem;
+    transform:  translate(-50%, -50%) rotate(-45deg);
+
+}
+
+.sun::after{
+    content: "";
+    width: 6.25rem;
+    height: 6.25rem;
+    background: #e91e63;
+    border-radius: 50%;
+    position: absolute;
+    top: -6.25rem;
+    right: -6.25rem;
+    transition: 0.5s;
+}
+
+.sun.night::after{
+    top: -1.563rem;
+    right: -1.563rem;
+}
+
+.sun.night div{
+    width: 0;
 }
