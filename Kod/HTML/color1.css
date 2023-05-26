@@ -45,6 +45,20 @@
     background-repeat: no-repeat;
     width: 200px !important;
     height: 100px !important; 
+<<<<<<< Updated upstream
+=======
+}
+
+:root[data-theme="light"]{
+  --primary-color: #e2dffb;
+  --secondary-color: #AEA9DF;
+  --tertiary-color: #4c6b91;
+  --bg-color: #ebeae5;
+  --light-color: #ebf2fa;
+  --dark-color: #171718;
+  --navbar-color: #6c757d;
+  --text-default-color: #0F0F10;
+>>>>>>> Stashed changes
 }
 
 
