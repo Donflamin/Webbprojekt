@@ -123,8 +123,8 @@
   }
   
   .hero{
-      color:#f5f5f5;
-      background-color: #343a40;
+      color:var(--text-default-color);
+      background-color: var(--navbar-color);
   }
   
   
