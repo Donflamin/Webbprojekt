@@ -51,9 +51,8 @@ p{
 }
 
 .dropdown-menu{
-    /*background-color: var(--primary-color) !important;
-    color: var(--text-default-color) !important;*/
-    background-color: red !important !important;
+    background-color: var(--primary-color) !important;
+    color: var(--text-default-color) !important;
 }
 
 
