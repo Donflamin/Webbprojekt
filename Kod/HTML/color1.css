@@ -3,7 +3,8 @@
     background: url(../Bilder/webbprojekt1.svg);
     background-size: contain;
     background-repeat: no-repeat;
-    width: 200px !important; 
+    width: 200px !important;
+    height: 100px !important; 
 }
 
 
