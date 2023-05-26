@@ -70,6 +70,10 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
   function eraseCookie(name) {
   createCookie(name,'',-1);
 <<<<<<< HEAD
+<<<<<<< HEAD
+  }
+>>>>>>> parent of 869cfc2 (sista chansen)
+=======
   }
 >>>>>>> parent of 869cfc2 (sista chansen)
 =======
