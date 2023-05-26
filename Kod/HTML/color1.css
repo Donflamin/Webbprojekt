@@ -1,4 +1,37 @@
 
+<<<<<<< HEAD
+=======
+
+:root[data-theme="light"]{
+  --primary-color: #f0f3f2;
+  --secondary-color: #0E870E;
+  --tertiary-color: #4c6b91;
+  --bg-color: #ebeae5;
+  --light-color: #ebf2fa;
+  --dark-color: #171718;
+  --navbar-color: #6c757d;
+  --text-default-color: rgb(10, 10, 10);
+}
+  
+  
+:root[data-theme="dark"]{
+    --primary-color: #2c2c31;
+    --secondary-color: #008000;
+    --tertiary-color: #326628;
+    --bg-color: #141413;
+    --light-color: #ebf2fa;
+    --dark-color: #171718;
+    --text-default-color: rgb(240, 240, 240);
+}
+  
+
+
+
+
+
+
+
+>>>>>>> parent of 869cfc2 (sista chansen)
 .logo{
     background: url(../Bilder/webbprojekt1.svg);
     background-size: contain;
@@ -9,6 +42,11 @@
 
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> parent of 869cfc2 (sista chansen)
 .nav{
     background-color: #6c757d;
 }
