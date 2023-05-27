@@ -74,21 +74,13 @@ svg {
   width: 75%;
 }
 
-fixmmm p, a {
-  font-size: 2rem;
-}
-
-div.fixmmm p {
-  font-size: 2rem;
-}
-
 a:hover::before {
   transform-origin: left;
   transform: scaleX(1);
 }
 
 .section-first {
-  background-image: url("natur.jpg");
+  background-image: url("../Bilder/natur.jpg");
   background-size: cover;
   height: 100dvh;
   margin: 0;
