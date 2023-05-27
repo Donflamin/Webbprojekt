@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="47.013226"
+   height="43.014835"
+   viewBox="0 0 12.776972 11.690313"
+   version="1.1"
+   id="svg4290"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="webbprojekt1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4292"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-62.048621"
+     inkscape:cy="45.078058"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4287">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5281"
+       id="radialGradient5283-0-2-0"
+       cx="142.57921"
+       cy="174.67319"
+       fx="142.57921"
+       fy="174.67319"
+       r="5.2574315"
+       gradientTransform="matrix(1.0776463,0,0,0.98599445,-74.473377,71.289075)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5281">
+      <stop
+         style="stop-color:#ffd42a;stop-opacity:1;"
+         offset="0"
+         id="stop5277" />
+      <stop
+         style="stop-color:#ffd42a;stop-opacity:0;"
+         offset="1"
+         id="stop5279" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-71.653525,-95.96446)">
+    <g
+       id="g868-25"
+       transform="matrix(1.1275819,0,0,1.1275819,-11.236044,-172.77447)"
+       style="stroke-width:0.886853">
+      <ellipse
+         style="fill:url(#radialGradient5283-0-2-0);fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="path5253-2-3-4-3"
+         cx="79.176559"
+         cy="243.51587"
+         rx="5.6656508"
+         ry="5.1837974" />
+      <ellipse
+         style="fill:#ffdd55;stroke:#000000;stroke-width:0"
+         id="path5253-8-5-3"
+         cx="79.176559"
+         cy="243.51587"
+         rx="2.7265882"
+         ry="2.4946969" />
+    </g>
+  </g>
+</svg>
