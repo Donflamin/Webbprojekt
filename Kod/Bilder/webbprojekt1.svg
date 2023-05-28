@@ -66,6 +66,7 @@
      id="layer1"
      transform="translate(-71.653525,-95.96446)">
     <g
+<<<<<<< Updated upstream
        id="g868-25"
        transform="matrix(1.1275819,0,0,1.1275819,-11.236044,-172.77447)"
        style="stroke-width:0.886853">
@@ -83,6 +84,36 @@
          cy="243.51587"
          rx="2.7265882"
          ry="2.4946969" />
+=======
+       id="g2236">
+      <g
+         id="g868-25"
+         transform="matrix(1.5346099,0,0,1.5346099,-58.933069,-272.37269)"
+         style="stroke-width:0.651631">
+        <ellipse
+           style="fill:url(#radialGradient5283-0-2-0);fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="path5253-2-3-4-3"
+           cx="79.176559"
+           cy="243.51587"
+           rx="5.6656508"
+           ry="5.1837974" />
+        <ellipse
+           style="fill:#ffdd55;stroke:#000000;stroke-width:0"
+           id="path5253-8-5-3"
+           cx="79.176559"
+           cy="243.51587"
+           rx="2.7265882"
+           ry="2.4946969" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.74384969,0,0,0.88099063,-111.87703,-611.90287)"
+         id="text617-9-2-0-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Harrington;-inkscape-font-specification:Harrington;white-space:pre;shape-inside:url(#rect619-9-9-5-8);display:inline;fill:#00d400;stroke:#000000;stroke-width:0"><tspan
+           x="230.75"
+           y="817.14784"
+     
+>>>>>>> Stashed changes
     </g>
   </g>
 </svg>
