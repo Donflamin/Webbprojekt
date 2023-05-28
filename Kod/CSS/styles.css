@@ -44,12 +44,6 @@ h2 {
   font-family: Archivo, sans-serif;
 }
 
-a {
-  position: relative;
-  text-decoration: none;
-  color: #333333;
-}
-
 a::before {
   content: "";
   position: absolute;
