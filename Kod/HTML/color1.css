@@ -155,7 +155,11 @@ body{
   
   
 .light{
+<<<<<<< Updated upstream
     position: fixed;   
+=======
+    position: fixed;
+>>>>>>> Stashed changes
     left: 0.5rem;
     bottom: 0.5rem;
 }
