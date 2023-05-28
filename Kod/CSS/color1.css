@@ -7,10 +7,11 @@
     --bg-color: #ebeae5;
     --light-color: #ebf2fa;
     --dark-color: #171718;
-    --navbar-color: #919FB3;
+    --navbar-color: #575f6b;
     --text-default-color: #0F0F10;
-    --shadow-color: #355d80;
+    --shadow-color: #4c4a61;
     --mode-color: #d4df46;
+    --link-color: #d4e7f7;
   }
   
 /*transform translate på nav för att centrera y led
@@ -30,10 +31,11 @@
     --bg-color: #141413;
     --light-color: #ebf2fa;
     --dark-color: #171718;
-    --navbar-color: #49446C;    
+    --navbar-color: #49446c;    
     --text-default-color: #EAE8F8;
     --shadow-color: #b8b1eb;
     --mode-color: #c3ca62;
+    --link-color: #EAE8F8;
 
 }
     
@@ -58,22 +60,20 @@ p{
 /*navbar start*/  
 .nav{
     background-color: var(--navbar-color) !important;
-  
 }  
 
-.dropdown-menu{
-    background-color: var(--primary-color) !important;
-    color: var(--text-default-color) !important;
+.nav-link{
+    color: var(--link-color);
 }
 
-a{
-    color: var(--text-default-color) !important;
+
+.dropdown-menu {
+    background-color: var(--secondary-color) !important;
+    color: var(--link-color) !important;
 }
 /*navbar start*/
   
 
-  
-  
 /*loggor start*/
 .logo{
     width: auto;
@@ -83,7 +83,7 @@ a{
 }
   
 .TC{
-    height: 12.5rem;
+    height: 15.5rem;
 }
   
 /*loggor slut*/
@@ -93,8 +93,13 @@ a{
 
 footer{
     background-color: var( --navbar-color);
+    color: var(--text-color);
 }
-  
+
+.link{
+    color: var( --link-color) !important;
+}
+
 /*footer slut*/
 
   
