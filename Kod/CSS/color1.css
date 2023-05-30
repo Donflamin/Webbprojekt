@@ -9,7 +9,7 @@
     --dark-color: #171718;
     --navbar-color: #575f6b;
     --text-default-color: #0F0F10;
-    --shadow-color: #34324b;
+    --shadow-color: #565366;
     --mode-color: #d4df46;
     --link-color: #d4e7f7;
   }
@@ -56,7 +56,7 @@ p{
 
 
 /*navbar start*/  
-.nav{
+.navbg{
     background-color: var(--navbar-color) !important;
 }  
 
@@ -207,7 +207,7 @@ body{
 
 .bild-2{
     width: 100%;
-    aspect-ratio: 16 / 9;
+    height: 100%;
     object-fit: cover;
 }
   
@@ -237,7 +237,9 @@ body{
     overflow: hidden;
     box-shadow: 0 0 .5rem var(--shadow-color);
 }
-  
+
+
+
 .sun{
     width: 2.08rem;
     height: 2.08rem;

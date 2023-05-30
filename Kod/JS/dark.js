@@ -2,6 +2,7 @@
 
 // dark-/lightmode activator
 if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    let sun = document.getElementById("sun");
     if(readCookie('darkmode') != 'true' && readCookie('darkmode') != 'false'){
         document.documentElement.setAttribute('data-theme', 'dark');
     }else if(readCookie('darkmode') == 'true'){
@@ -9,13 +10,16 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
         document.documentElement.setAttribute('data-theme', 'dark');
     }else if(readCookie('darkmode') == 'false'){
         document.documentElement.setAttribute('data-theme', 'light');
+        sun.classList.toggle("night");
     }
   }else{
     if(readCookie('darkmode') != 'true' && readCookie('darkmode') != 'false'){
         document.documentElement.setAttribute('data-theme', 'light');
+        sun.classList.toggle("night");
     }else if(readCookie('darkmode') == 'false'){
         eraseCookie('light');
         document.documentElement.setAttribute('data-theme', 'light');
+        sun.classList.toggle("night");
     }else if(readCookie('darkmode') == 'true'){
         document.documentElement.setAttribute('data-theme', 'dark');
     }
@@ -55,6 +59,7 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
   }
   
   function readCookie(name) {
+    
   var nameEQ = name + '=';
   var ca = document.cookie.split(';');
   for(var i=0;i < ca.length;i++) {
@@ -62,7 +67,7 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
     while (c.charAt(0)==' ') c = c.substring(1,c.length);
     if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
   }
-  return null;
+  return false;
   }
   
   function eraseCookie(name) {
@@ -70,7 +75,8 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
   }
 
 let sun = document.getElementById("sun");
+let darkmodebtn = document.getElementById("darkButton")
 
-sun.onclick = function(){
+darkmodebtn.onclick = function(){
     sun.classList.toggle("night");
 }
