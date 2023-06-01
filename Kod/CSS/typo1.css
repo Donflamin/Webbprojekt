@@ -4,6 +4,27 @@
 }
 */
 
+@font-face {
+    font-family: "Montserrat";
+    src: local("Montserrat"), url("Montserrat/Montserrat-VariableFont_wght.ttf");
+  }
+  @font-face {
+    font-family: "Lato";
+    src: local("Lato"), url("Lato/Lato-Regular.ttf");
+  }
+  @font-face {
+    font-family: "Archivo";
+    src: local("Archivo"), url("ArchivoBlack-Regular.ttf");
+  }
+  @keyframes text-animation {
+    0% {
+      background-position: left;
+    }
+    100% {
+      background-position: right;
+    }
+  }
+
 h1{
     text-align: center;
 }

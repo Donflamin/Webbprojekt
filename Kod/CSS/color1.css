@@ -94,8 +94,14 @@ p{
 }
   
 /*loggor slut*/
-  
-  
+
+.cardimg{
+    height: 100%;
+    width: 50%;
+}
+
+
+
 /*footer start*/
 
 footer{
@@ -154,6 +160,7 @@ footer a:hover{
 }
 
 .social-links{
+    align-items: center !important;
     width: 50%;
     position: relative;
 }
@@ -218,12 +225,14 @@ body{
     background-color: var(--navbar-color);
 }
   
-  
+
+/*Mode button start*/
 .light{
     position: fixed;
     left: 0.5rem;
     bottom: 0.5rem;
 }
+
 
 .button-box{
     width: 5rem;
