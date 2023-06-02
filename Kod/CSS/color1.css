@@ -78,8 +78,15 @@ p{
 .dropdown-item{
     color: var(--text-default-color);
 }
-/*navbar start*/
-  
+/*navbar slut*/
+
+/*cards start*/
+.card{
+    max-height: 21rem;
+}
+/*cards slut*/
+
+
 
 /*loggor start*/
 .logo{
