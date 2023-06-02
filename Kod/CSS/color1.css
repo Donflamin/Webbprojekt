@@ -213,10 +213,7 @@ body{
     object-fit: cover;
 }
   
-.hero{
-    color:var(--text-default-color);
-    background-color: var(--navbar-color);
-}
+
   
   
 .light{
