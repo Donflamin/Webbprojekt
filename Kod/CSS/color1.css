@@ -68,7 +68,7 @@ p{
 
 .nav-link:hover{
     color: var(--link-color);
-  text-decoration: underline var(--link-color);
+    text-decoration: underline var(--link-color);
 }
 
 .dropdown-menu {
@@ -78,34 +78,41 @@ p{
 .dropdown-item{
     color: var(--text-default-color);
 }
-/*navbar slut*/
 
-/*cards start*/
-.card{
-    max-height: 21rem;
-}
-/*cards slut*/
-
-
-
-/*loggor start*/
 .logo{
     width: auto;
     height: 3.825rem;
     image-rendering: 100%;
     align-items: center;
 }
-  
-.TC{
-    height: 15.5rem;
-}
-  
-/*loggor slut*/
+/*navbar slut*/
 
-.cardimg{
-    height: 100%;
-    width: 50%;
+/*cards start*/
+.card{
+    max-height: 18rem;
+    max-width: 15rem;
+    color: var(--text-default-color);
+    background-color: var(--secondary-color);
+    box-shadow: 0 0 .2rem var(--shadow-color);
+    border: solid var(--shadow-color) 0.01rem;
 }
+
+.card-img{
+    max-height: 9.781rem;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+
+/*cards slut*/
+
+
+
+
+
+
+  
+
 
 
 
@@ -199,8 +206,8 @@ footer a:hover{
     }
 }
 .tcstenungsund img{
-    width: 12.5rem;
-    height: 12.5rem;
+    width: 100%;
+    height: 8.4rem;
     aspect-ratio: 1 / 1;
 }
 
