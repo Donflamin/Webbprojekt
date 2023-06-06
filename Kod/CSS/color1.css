@@ -1,3 +1,11 @@
+*{
+    font-family: sans-serif;
+}
+
+
+
+
+
 
 
 :root[data-theme="light"]{
@@ -39,7 +47,7 @@ Navbar potentiell färg = #bEb8ec
     --mode-color: #c3ca62;
     --link-color: #dedfe0;
 }
-    
+
   
 body{
     background-color: var(--primary-color) !important;
@@ -330,18 +338,3 @@ body{
 .sun.night div{
     width: 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
