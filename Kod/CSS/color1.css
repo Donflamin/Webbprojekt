@@ -87,6 +87,11 @@ p{
     color: var(--text-default-color);
 }
 
+.txt{
+    stroke-width: 10px;
+    stroke: red;
+}
+
 .logo{
     width: auto;
     height: 3.825rem;
@@ -96,6 +101,12 @@ p{
 /*navbar slut*/
 
 /*cards start*/
+
+
+.card-link:hover{
+    scale: ;
+}
+
 .card{
     max-height: 18rem;
     max-width: 15rem;
@@ -109,6 +120,13 @@ p{
     max-height: 9.781rem;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
+}
+
+.card-link{
+    display: flex !important;
+    justify-content: center !important;
+    border-color: red;
+
 }
 
 
@@ -238,7 +256,7 @@ body{
 
 .bild-2{
     width: 100%;
-    height: 100%;
+    height: auto;
     object-fit: cover;
 }
   
@@ -266,6 +284,7 @@ body{
   
     overflow: hidden;
     box-shadow: 0 0 .5rem var(--shadow-color);
+    cursor: pointer;
 }
 
 
