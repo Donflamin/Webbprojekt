@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.5"
-     inkscape:cx="1997"
-     inkscape:cy="1186"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1235.6691"
+     inkscape:cy="1181.5754"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -561,14 +561,14 @@
        style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
          x="45.507812"
          y="26.807339"
-         id="tspan3090">COLOR SCHEME (LIGHT)</tspan></text><text
+         id="tspan4698">COLOR SCHEME (LIGHT)</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,25.832949,28.08278)"
        id="text544"
        style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect546);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
          x="410.94727"
          y="38.528042"
-         id="tspan3092">COLOR SCHEME (DARK)</tspan></text><g
+         id="tspan4700">COLOR SCHEME (DARK)</tspan></text><g
        id="g6659"
        transform="translate(50.806622,50.897101)"><g
          id="g4249"><circle
@@ -588,14 +588,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3094">Primary color</tspan></text><text
+           id="tspan4702">Primary color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,33.506896,23.764689)"
          id="text538-0-4"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-0);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3096">#E2DFFB</tspan></text></g><g
+           id="tspan4704">#E2DFFB</tspan></text></g><g
        id="g6686"
        transform="translate(50.806622,30.402663)"><g
          id="g4257"
@@ -616,14 +616,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-1);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3098"> teritiary color</tspan></text><text
+           id="tspan4706"> teritiary color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,32.063314,75.458804)"
          id="text538-0-2-1-5"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-1-4);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3100"> #4C6B91</tspan></text></g><g
+           id="tspan4708"> #4C6B91</tspan></text></g><g
        id="g6751"
        transform="translate(-4.3182741,17.805736)"><g
          id="g4276"><circle
@@ -643,14 +643,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-8);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3102">Navbar color</tspan></text><text
+           id="tspan4710">Navbar color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,33.618517,123.0941)"
          id="text538-0-2-47-7"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-8-4);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3104">#575F6B</tspan></text></g><g
+           id="tspan4712">#575F6B</tspan></text></g><g
        id="g6733"
        transform="translate(50.993231,-15.728841)"><g
          id="g4280"><circle
@@ -670,14 +670,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-26);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3106">Shadow color</tspan></text><text
+           id="tspan4714">Shadow color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,33.623943,155.63802)"
          id="text538-0-2-5-5"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-26-1);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3108">#565366</tspan></text></g><g
+           id="tspan4716">#565366</tspan></text></g><g
        id="g6742"
        transform="translate(-4.8040911,-111.5872)"><g
          id="g4288"><circle
@@ -697,14 +697,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-60);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3110">Link color</tspan></text><text
+           id="tspan4718">Link color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,33.526274,188.97571)"
          id="text538-0-2-68-2"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-60-24);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3112">#D4E7F7</tspan></text></g><g
+           id="tspan4720">#D4E7F7</tspan></text></g><g
        id="g6668"
        transform="translate(-74.806614,81.48567)"><g
          id="g4253"
@@ -725,14 +725,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3114">secondary color</tspan></text><text
+           id="tspan4722">secondary color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,108.25901,23.667396)"
          id="text538-0-3"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-42);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3116"> #AEA9DF</tspan></text></g><g
+           id="tspan4724"> #AEA9DF</tspan></text></g><g
        id="g6677"
        transform="translate(-74.806614,-11.670922)"><g
          id="g4088"
@@ -753,14 +753,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-2);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3118">Background color</tspan></text><text
+           id="tspan4726">Background color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,108.88301,61.603182)"
          id="text538-0-2-1-9"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-1-3);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3120">#EBEAE5</tspan></text></g><g
+           id="tspan4728">#EBEAE5</tspan></text></g><g
        id="g6706"
        transform="translate(-19.495109,80.491526)"><g
          id="g4265"
@@ -781,14 +781,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-4);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3122">Dark color</tspan></text><text
+           id="tspan4730">Dark color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,109.00393,90.452882)"
          id="text538-0-2-6-2"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-3-6);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3124">#171718</tspan></text></g><g
+           id="tspan4732">#171718</tspan></text></g><g
        id="g6715"
        transform="translate(-75.546749,83.538592)"><g
          id="g4269"
@@ -809,14 +809,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-7);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3126">Text color</tspan></text><text
+           id="tspan4734">Text color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,109.20779,122.99664)"
          id="text538-0-2-47-6"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-8-3);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3128">#0F0F10</tspan></text></g><g
+           id="tspan4736">#0F0F10</tspan></text></g><g
        id="g6724"
        transform="translate(-75.546749,17.704211)"><g
          id="g4284"
@@ -837,14 +837,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-6);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3130">Mode color</tspan></text><text
+           id="tspan4738">Mode color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,108.66442,155.54039)"
          id="text538-0-2-5-57"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-26-3);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3132">#D4DF46</tspan></text></g><g
+           id="tspan4740">#D4DF46</tspan></text></g><g
        id="g6847"
        transform="translate(-98.767754,113.86017)"><circle
          style="fill:#1a1a1a;stroke:#000000;stroke-width:0"
@@ -863,14 +863,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-9);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3134">secondary color</tspan></text><text
+           id="tspan4742">secondary color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,252.37973,27.872069)"
          id="text538-0-3-8"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-42-0);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3136"> #393554</tspan></text></g><g
+           id="tspan4744"> #393554</tspan></text></g><g
        id="g6839"
        transform="translate(-40.872747,113.16385)"><circle
          style="fill:#1a1a1a;stroke:#000000;stroke-width:0"
@@ -889,14 +889,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-2-1);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3139">Background color</tspan></text><text
+           id="tspan4746">Background color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,253.35848,61.045352)"
          id="text538-0-2-1-9-6"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-1-3-5);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3141">#141413</tspan></text></g><g
+           id="tspan4748">#141413</tspan></text></g><g
        id="g6831"
        transform="translate(-98.769222,80.677424)"><g
          id="g4312"
@@ -917,14 +917,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-4-9);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3143">Dark color</tspan></text><text
+           id="tspan4750">Dark color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,252.80451,94.657555)"
          id="text538-0-2-6-2-5"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-3-6-1);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3145">#171718</tspan></text></g><g
+           id="tspan4752">#171718</tspan></text></g><g
        id="g6822"
        transform="translate(-41.614358,-73.224175)"><g
          id="g4308"
@@ -945,14 +945,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-7-6);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3147">Text color</tspan></text><text
+           id="tspan4754">Text color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,252.83629,127.20137)"
          id="text538-0-2-47-6-3"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-8-3-4);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3149">#EAE8F8</tspan></text></g><g
+           id="tspan4756">#EAE8F8</tspan></text></g><g
        id="g6813"
        transform="translate(-41.614358,-78.319753)"><g
          id="g4296"
@@ -973,14 +973,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-6-5);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3151">Mode color</tspan></text><text
+           id="tspan4758">Mode color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,252.53863,159.74512)"
          id="text538-0-2-5-57-6"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-26-3-2);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3153">#C3CA62</tspan></text></g><g
+           id="tspan4760">#C3CA62</tspan></text></g><g
        id="g6912"
        transform="translate(53.240596,113.86017)"><circle
          style="fill:#1a1a1a;stroke:#000000;stroke-width:0"
@@ -999,14 +999,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-83);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3155">Primary color</tspan></text><text
+           id="tspan4762">Primary color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,157.32334,23.443799)"
          id="text538-0-4-1"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-0-2);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3157">#211F2F</tspan></text></g><g
+           id="tspan4764">#211F2F</tspan></text></g><g
        id="g6921"
        transform="translate(-4.6551447,48.580232)"><g
          id="g4320"
@@ -1027,14 +1027,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-1-2);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3159"> teritiary color</tspan></text><text
+           id="tspan4766"> teritiary color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,156.79701,57.675417)"
          id="text538-0-2-1-5-1"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-1-4-1);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3161"> #326628</tspan></text></g><g
+           id="tspan4768"> #326628</tspan></text></g><g
        id="g6930"
        transform="translate(-4.6551447,-43.971444)"><g
          id="g4316"
@@ -1055,14 +1055,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-3-9);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3163"> Light color</tspan></text><text
+           id="tspan4770"> Light color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,156.20403,90.229187)"
          id="text538-0-2-6-9-9"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-3-88-8);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3165">#EDFF2FA</tspan></text></g><g
+           id="tspan4772">#EDFF2FA</tspan></text></g><g
        id="g6939"
        transform="translate(53.426485,-14.196943)"><g
          id="g4304"
@@ -1083,14 +1083,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-8-8);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3167">Navbar color</tspan></text><text
+           id="tspan4774">Navbar color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,157.07219,122.77306)"
          id="text538-0-2-47-7-9"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-8-4-92);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3169">#49446C</tspan></text></g><g
+           id="tspan4776">#49446C</tspan></text></g><g
        id="g6948"
        transform="translate(-4.4685221,50.19028)"><g
          id="g4300"
@@ -1111,14 +1111,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-26-5);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3171">Shadow color</tspan></text><text
+           id="tspan4778">Shadow color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,157.33109,155.31698)"
          id="text538-0-2-5-5-8"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-26-1-5);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3173">#0F0E13</tspan></text></g><g
+           id="tspan4780">#0F0E13</tspan></text></g><g
        id="g6957"
        transform="translate(-4.9543314,-111.40094)"><g
          id="g4292"
@@ -1139,14 +1139,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-60-1);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3175">Link color</tspan></text><text
+           id="tspan4782">Link color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,156.89391,188.65467)"
          id="text538-0-2-68-2-1"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-60-24-49);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3177">#DEDFE0</tspan></text></g><g
+           id="tspan4784">#DEDFE0</tspan></text></g><g
        id="g6697"
        transform="translate(50.806622,-44.157357)"><g
          id="g4261"><circle
@@ -1166,14 +1166,14 @@
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-3);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3179"> Light color</tspan></text><text
+           id="tspan4786"> Light color</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,33.9278,90.55018)"
          id="text538-0-2-6-9"
          style="font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect540-6-4-3-88);display:inline;fill:#325d32;stroke:#000000;stroke-width:0"><tspan
            x="45.507812"
            y="26.807339"
-           id="tspan3181">EDFF2FA</tspan></text><text
+           id="tspan4788">EDFF2FA</tspan></text><text
          xml:space="preserve"
          style="font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ddddde;fill-opacity:1;stroke:#000000;stroke-width:0"
          x="51.785107"
@@ -2285,13 +2285,13 @@
          y="268.97549">BUISNESS OBJECTIVES</tspan></text><text
        xml:space="preserve"
        style="font-size:9.10413px;fill:#000000;stroke-width:0.758677"
-       x="391.64578"
+       x="405.40433"
        y="267.10461"
        id="text951-5-3"><tspan
          sodipodi:role="line"
          id="tspan949-0-4"
          style="stroke-width:0.758677"
-         x="391.64578"
+         x="405.40433"
          y="267.10461">CTA</tspan></text><text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -2299,13 +2299,13 @@
        style="white-space:pre;shape-inside:url(#rect1016);display:inline;fill:#000000" /><text
        xml:space="preserve"
        style="font-size:9.10413px;fill:#000000;stroke-width:0.758677"
-       x="294.49246"
+       x="280.61966"
        y="267.85297"
        id="text951-6"><tspan
          sodipodi:role="line"
          id="tspan949-7"
          style="stroke-width:0.758677"
-         x="294.49246"
+         x="280.61966"
          y="267.85297">LOGO</tspan></text><text
        xml:space="preserve"
        style="font-size:9.10413px;fill:#000000;stroke-width:0.758677"
@@ -2477,17 +2477,17 @@
          id="tspan1865" /></text><text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
-       x="391.76367"
+       x="405.52222"
        y="279.13629"
        id="text1869"><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="391.76367"
+         x="405.52222"
          y="279.13629"
          id="tspan1875">Ska var uppmananden med länkar för att läsa  fler av våra artiklar samt en cta som </tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="391.76367"
+         x="405.52222"
          y="283.10504"
          id="tspan1881">gör det möjligt att ge donationer genom att föra dom vidare till en hjälporganisatin.</tspan></text><text
        xml:space="preserve"
@@ -2579,9 +2579,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Harrington;-inkscape-font-specification:Harrington;white-space:pre;shape-inside:url(#rect619-9-9-5-8-8);display:inline;fill:#325d32;fill-opacity:1;stroke:#000000;stroke-width:0"><tspan
          x="230.75"
          y="816.94796"
-         id="tspan3185"><tspan
+         id="tspan4792"><tspan
            style="font-family:sans-serif;-inkscape-font-specification:sans-serif"
-           id="tspan3183">Greenerg</tspan></tspan></text><g
+           id="tspan4790">Greenerg</tspan></tspan></text><g
        id="g998-0-1"
        transform="matrix(1.7313448,0,0,1.7313448,163.36788,-144.25999)"
        style="stroke-width:0.526821"><g
@@ -2758,67 +2758,82 @@
            inkscape:path-effect="#path-effect14462-6-0-8-7-4-7-99-6" /></g></g><text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
-       x="282.17813"
+       x="281.46841"
        y="296.73019"
        id="text3136"><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="282.17813"
+         x="281.46841"
          y="296.73019"
          id="tspan3138">Vi ville förmedla en känsla av förnybar och hållbar energi som</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="282.17813"
+         x="281.46841"
          y="300.69894"
          id="tspan3142">baseras på naturliga resurser och utifrån detta koom vi på namnet </tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="282.17813"
+         x="281.46841"
          y="304.66769"
          id="tspan3144">Greenergy. För att visa en mer uppenbar koppling till förnybara energi </tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="282.17813"
+         x="281.46841"
          y="308.63644"
          id="tspan3833">källor testade vi att implementera vindkraftverk in i loggan på olika sätt.</tspan></text><text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
-       x="282.69098"
+       x="281.29633"
        y="316.92819"
        id="text3837"><tspan
          sodipodi:role="line"
          id="tspan3835"
          style="stroke-width:0.264583"
-         x="282.69098"
+         x="281.29633"
          y="316.92819">Inser logo 1 here</tspan></text><text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
-       x="282.50388"
+       x="345.26276"
+       y="285.06595"
+       id="text3837-5"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="345.26276"
+         y="285.06595"
+         id="tspan4050">OBS! Texten är grå i praktiken men </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="345.26276"
+         y="289.0347"
+         id="tspan4054">det funkar inte på dokumentationen</tspan></text><text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="281.22192"
        y="341.6239"
        id="text3841"><tspan
          sodipodi:role="line"
          id="tspan3839"
          style="stroke-width:0.264583"
-         x="282.50388"
+         x="281.22192"
          y="341.6239">På grund av de olika designernas komplicitet bestämde vi att gå för en </tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="282.50388"
+         x="281.22192"
          y="345.59265"
          id="tspan3843">mer kompakt och simpel design.</tspan></text><text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
-       x="285.12314"
+       x="281.41415"
        y="358.46191"
        id="text3847"><tspan
          sodipodi:role="line"
          id="tspan3845"
          style="stroke-width:0.264583"
-         x="285.12314"
+         x="281.41415"
          y="358.46191">Den slutliga loggan blev då denna fast med ett Y som är gjort för att</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="285.12314"
+         x="281.41415"
          y="362.43066"
          id="tspan3849">visuelt likna ett vindkraftverk.</tspan></text><image
        width="50.006248"
@@ -2859,22 +2874,7 @@
        width="21.960417"
        height="12.170834"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAuCAYAAABUDiUfAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
-jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALkSURBVGhD7drPbxJBFAfwJwSEQMsvobaFQiJN
-iIGEWG7qXf1nNR7Uu1YTpb1ADEkxoYWEFi3lZ6gQUB55jdUYnZ15O3vofC6dR0K2+TIzu5m3t3rD
-wQ8wWLjor8HAhMnIhMnIhMnIhMnIhMnIhMmI9Tmz1WzCceMYTttt6Ha7MJvNwO12g8/ng7W1NYhE
-IhCPx8Hj8dA37IXX9nq9cHt5/UAwAMHl/2An5TAxsPLHT1CtVGA6ndKn/7a1tQXpdBoCgQB9ogeG
-G17+oNE7MXC5+BelUpgY4If998Ih/imTyUA2m6VKHww1vpGAUDhMn/CQDvPNq9fwpV6nSl40GoV8
-Pr9ajrrhLN3YvEuVOqkwXz5/Ac3l/sglGAxCsVhc7a26rYfWYXN7myo1ljcOnJGcQaLRaASV5Zbh
-hEF/AGftU6rUWArzsFxmWdp/0+/3oVarUaVX7+IC+r0eVfKEw8SbzEH5gCp7tFqt1SOVE76edWCx
-WFAlRzjM/bfvpO/aVjQaDRrpNZ/PofvtnCo5wmHWj45oZC+cmT2GJScDl7sKoTA/V6taZuWVTqdD
-I71wdo6GQ6qsEwrz5IT37v0/Tu2baDwa08g6oTC752p7iVX4qISzxAnfLy9pZJ1QmOOx/K8lazKZ
-0Egvle1MKEw8zNDNiWsilRUhFKYhRihMXeeP1zlxTYQnSrKEwtR97oj8fj+N9FI5vRIKMxqL0UgP
-PEVSmSEq8FRellCYOzspGumBZ5xOwfaGLKEw72s+vE0kEjTSC1eDSp9IKEyU3d2lkb1wVoaZ2wmi
-8ORdhXCYDx8/0jI7sS/kBJyV2GhTIRwmBrlX2qPKHslk0rH9Ehtsqh1LS99+UCrBPZu6iaFQCHK5
-HFV64fLm6FRa/imePHsKqRTv3R0fhQqFAlV6YUONq0NpWr1Ot3qvmJcQfqcUJjKvx/yiHOZ15sUt
-xjBvOv65foOZMBmZMBmZMBmZMBmZMBmZMNkA/AQE+Qt9a3MGzAAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAuCAYAAABUDiUfAAAAAXNSR0IArs4c6QAAAARnQU1BAACx jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALkSURBVGhD7drPbxJBFAfwJwSEQMsvobaFQiJN iIGEWG7qXf1nNR7Uu1YTpb1ADEkxoYWEFi3lZ6gQUB55jdUYnZ15O3vofC6dR0K2+TIzu5m3t3rD wQ8wWLjor8HAhMnIhMnIhMnIhMnIhMnIhMmI9Tmz1WzCceMYTttt6Ha7MJvNwO12g8/ng7W1NYhE IhCPx8Hj8dA37IXX9nq9cHt5/UAwAMHl/2An5TAxsPLHT1CtVGA6ndKn/7a1tQXpdBoCgQB9ogeG G17+oNE7MXC5+BelUpgY4If998Ih/imTyUA2m6VKHww1vpGAUDhMn/CQDvPNq9fwpV6nSl40GoV8 Pr9ajrrhLN3YvEuVOqkwXz5/Ac3l/sglGAxCsVhc7a26rYfWYXN7myo1ljcOnJGcQaLRaASV5Zbh hEF/AGftU6rUWArzsFxmWdp/0+/3oVarUaVX7+IC+r0eVfKEw8SbzEH5gCp7tFqt1SOVE76edWCx WFAlRzjM/bfvpO/aVjQaDRrpNZ/PofvtnCo5wmHWj45oZC+cmT2GJScDl7sKoTA/V6taZuWVTqdD I71wdo6GQ6qsEwrz5IT37v0/Tu2baDwa08g6oTC752p7iVX4qISzxAnfLy9pZJ1QmOOx/K8lazKZ 0Egvle1MKEw8zNDNiWsilRUhFKYhRihMXeeP1zlxTYQnSrKEwtR97oj8fj+N9FI5vRIKMxqL0UgP PEVSmSEq8FRellCYOzspGumBZ5xOwfaGLKEw72s+vE0kEjTSC1eDSp9IKEyU3d2lkb1wVoaZ2wmi 8ORdhXCYDx8/0jI7sS/kBJyV2GhTIRwmBrlX2qPKHslk0rH9Ehtsqh1LS99+UCrBPZu6iaFQCHK5 HFV64fLm6FRa/imePHsKqRTv3R0fhQqFAlV6YUONq0NpWr1Ot3qvmJcQfqcUJjKvx/yiHOZ15sUt xjBvOv65foOZMBmZMBmZMBmZMBmZMBmZMNkA/AQE+Qt9a3MGzAAAAABJRU5ErkJggg== "
        id="image1608"
        x="487.14029"
        y="493.24289" /><text
@@ -3001,35 +3001,7 @@ xjBvOv65foOZMBmZMBmZMBmZMBmZMBmZMNkA/AQE+Qt9a3MGzAAAAABJRU5ErkJggg==
        width="32.014584"
        height="5.2916665"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,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
-"
+       xlink:href="data:image/png;base64,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 "
        id="image1628"
        x="487.14029"
        y="482.73233" /><text
@@ -3052,4 +3024,14 @@ z0i9f//+ZZO3GsC/2dKgBVEB9HEAAAAASUVORK5CYII=
          id="tspan2449"
          style="stroke-width:0.264583"
          x="486.83023"
-         y="520.70001">FÄRDIG PRODUKT</tspan></text></g></svg>
+         y="520.70001">FÄRDIG PRODUKT</tspan></text><text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#1a1a1a;stroke-width:0.264583"
+       x="345.73984"
+       y="287.74234"
+       id="text3863"><tspan
+         sodipodi:role="line"
+         id="tspan3861"
+         style="stroke-width:0.264583;fill:#1a1a1a"
+         x="345.73984"
+         y="287.74234" /></text></g></svg>

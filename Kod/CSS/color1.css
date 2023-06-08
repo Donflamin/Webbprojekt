@@ -71,12 +71,12 @@ p{
 }  
 
 .nav-link{
-    color: var(--link-color);
+    color: #EAE8F8;
 }
 
 .nav-link:hover{
-    color: var(--link-color);
-    text-decoration: underline var(--link-color);
+    color: #EAE8F8;
+    text-decoration: underline #EAE8F8;
 }
 
 .dropdown-menu {
@@ -102,9 +102,12 @@ p{
 
 /*cards start*/
 
+.card-link{
+    transition: 0.3s all;
+}
 
 .card-link:hover{
-    scale: ;
+    transform: scale(1.1);
 }
 
 .card{
@@ -129,6 +132,13 @@ p{
 
 }
 
+.card.body{
+    word-wrap: break-word;
+}
+
+.snurr:hover{
+    background-color: red;
+}
 
 /*cards slut*/
 
