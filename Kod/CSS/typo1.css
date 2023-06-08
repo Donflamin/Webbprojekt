@@ -1,9 +1,3 @@
-
-/**{
-    text-align: justify;
-}
-*/
-
 @font-face {
     font-family: "Montserrat";
     src: local("Montserrat"), url("Montserrat/Montserrat-VariableFont_wght.ttf");
@@ -42,8 +36,3 @@ li{
 
 }
 
-
-
-.mer{
-    text-align: left;
-}

@@ -15,24 +15,12 @@
     --bg-color: #ebeae5;
     --light-color: #ebf2fa;
     --dark-color: #171718;
-    --navbar-color: #575f6b;
+    --navbar-color: #49446c;
     --text-default-color: #0F0F10;
     --shadow-color: #565366;
     --mode-color: #d4df46;
     --link-color: #d4e7f7;
-  }
-  
-/*transform translate på nav för att centrera y led
-565366
-c6c4d1
-Navbar potentiell färg = #bEb8ec 
-
-  a3bdd3
-  acacac
-  989c9e
-  a0a7b3
-  88A3D3
-  d4e7f7*/
+}
   
 :root[data-theme="dark"]{
     --primary-color: #211F2F;
@@ -44,11 +32,11 @@ Navbar potentiell färg = #bEb8ec
     --navbar-color: #49446c;    
     --text-default-color: #EAE8F8;
     --shadow-color: #0f0e13;
-    --mode-color: #c3ca62;
+    --mode-color: #d4df46;
     --link-color: #dedfe0;
 }
 
-  
+/*body/content start*/
 body{
     background-color: var(--primary-color) !important;
 }
@@ -63,7 +51,36 @@ p{
     background-color: var(--text-color) !important;
 }
 
+h3{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
 
+h4{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+
+p, a{
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+}
+
+.col{
+    margin: 1rem;
+}
+
+.del-2{
+    display: grid;
+    justify-content: center;
+}
+
+
+.rows{
+    margin-top: 1rem;
+}
+/*body/content slut*/
 
 /*navbar start*/  
 .navbg{
@@ -101,9 +118,9 @@ p{
 /*navbar slut*/
 
 /*cards start*/
-
 .card-link{
     transition: 0.3s all;
+    
 }
 
 .card-link:hover{
@@ -135,24 +152,12 @@ p{
 .card.body{
     word-wrap: break-word;
 }
-
-.snurr:hover{
-    background-color: red;
-}
-
 /*cards slut*/
 
-
-
-
-
-
-  
-
-
-
-
 /*footer start*/
+.fot-list{
+    padding-left: 0px !important;
+}
 
 footer{
     background-color: var( --navbar-color);
@@ -204,8 +209,8 @@ footer a, footer div{
     font-weight: 600;
 }
 footer a:hover{
-    fill: var(--secondary-color);
-    color: var(--secondary-color);
+    fill: var(--bg-color);
+    color: var(--bg-color);
     text-decoration: none;
 }
 
@@ -228,7 +233,7 @@ footer a:hover{
     stroke: none;
 }
 .social-links:hover svg{
-    fill: var(--secondary-color);
+    fill: var(--bg-color);
 }
 
 .tcstenungsund{
