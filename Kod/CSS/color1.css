@@ -128,7 +128,6 @@ p, a{
 }
 
 .card{
-    max-height: 18rem;
     max-width: 15rem;
     color: var(--text-default-color);
     background-color: var(--secondary-color);
@@ -140,6 +139,7 @@ p, a{
     max-height: 9.781rem;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
+    aspect-ratio: 16 / 9;
 }
 
 .card-link{
