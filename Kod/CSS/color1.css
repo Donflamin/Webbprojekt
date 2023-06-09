@@ -60,7 +60,6 @@ h2 h5{
 }
 
 p, a{
-    padding-top: 0.3rem;
     padding-bottom: 0.3rem;
 }
 
@@ -77,6 +76,24 @@ p, a{
 .rows{
     margin-top: 1rem;
 }
+
+.navbar-toggler-icon{
+    background: url(../Bilder/menu-icon.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+  
+body{
+    background-color: var(--bg-color);
+    color: var(--text-default-color);
+}
+
+.bild-2{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
 /*body/content slut*/
 
 /*navbar start*/  
@@ -111,6 +128,10 @@ p, a{
 /*navbar slut*/
 
 /*cards start*/
+a:hover{
+    color: var(--text-default-color);
+}
+
 .card-link{
     transition: 0.3s all;
     
@@ -120,16 +141,15 @@ p, a{
     transform: scale(1.1);
 }
 
-
 .card{
     max-width: 15rem;
     color: var(--text-default-color);
     background-color: var(--secondary-color);
     box-shadow: 0 0 .2rem var(--shadow-color);
-    border: solid var(--shadow-color) 0.01rem;
+    border: none;
+    outline: none;
     max-height: 16.684rem;
 }
-
 
 .card-img{
     max-height: 9.781rem;
@@ -141,7 +161,6 @@ p, a{
 .card-link{
     display: flex !important;
     justify-content: center !important;
-    border-color: red;
 }
 
 .card.body{
@@ -246,32 +265,7 @@ footer a:hover{
     height: 8.4rem;
     aspect-ratio: 1 / 1;
 }
-
-
-
-
 /*footer slut*/
-
-  
-.navbar-toggler-icon{
-    background: url(../Bilder/menu-icon.svg);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-  
-body{
-    background-color: var(--bg-color);
-    color: var(--text-default-color);
-}
-
-.bild-2{
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-}
-  
-
-  
 
 /*Mode button start*/
 .light{
@@ -280,88 +274,76 @@ body{
     bottom: 0.5rem;
 }
 
-
 .button-box{
-    width: 5rem;
-    height: 5rem;
+    width: 4vw;
+    height: 4vw;
     background: var(--dark-color);
     border-radius: 100%; 
-  
     position: fixed;
-    left: 3rem;
-    bottom: -2rem;
+    left: 3vw;
+    bottom: -1.5vw;
     transform: translate(-50%, -50%);
-  
     overflow: hidden;
     box-shadow: 0 0 .5rem var(--shadow-color);
     cursor: pointer;
 }
 
-
-
 .sun{
-    width: 2.08rem;
-    height: 2.08rem;
+    width: 2vw;
+    height: 2vw;
     background: var(--mode-color);
     border-radius: 50%;
     cursor: pointer;
-  
     position: absolute;
-      
-  
     border: 0.044rem solid var(--dark-color);
 }
   
 .sun div{
-    height: 0.063rem;
+    height: .1vh;
     background-color: var(--mode-color);
-  
-  
     position: absolute;
-
     bottom: 50%;
     left: 50%;
     z-index: -1;
-  
     transition: width 0.2s;
 }
   
 .sun .line1{
-    width: 3.33rem;
+    width: 3vw;
     transform:  translate(-50%, -50%);
   
 }
   
 .sun .line2{
-    width: 3.3rem;
+    width: 3vw;
     transform:  translate(-50%, -50%) rotate(90deg);
 }
   
 .sun .line3{
-    width: 2.72rem;
+    width: 2.6vw;
     transform:  translate(-50%, -50%) rotate(45deg);  
 }
   
 .sun .line4{
-    width: 2.72rem;
+    width: 2.6vw;
     transform:  translate(-50%, -50%) rotate(-45deg);
 }
   
 .sun::after{
     content: "";
-    width: 2.083rem;
-    height: 2.083rem;
+    width: 2.1vw;
+    height: 2.1vw;
     background: var(--dark-color);
     border-radius: 50%;
     position: absolute;
-    top: -2.083rem;
-    right: -2.083rem;
+    top: -2.1vw;
+    right: -2.1vw;
     transition: 0.2s;
 }
   
 .sun.night::after{
-    top: -0.521rem;
-    right: -0.521rem;
+    top: -.7vw;
+    right: -.7vw;
 }
   
 .sun.night div{
