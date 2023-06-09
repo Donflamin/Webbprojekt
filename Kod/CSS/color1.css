@@ -2,12 +2,6 @@
     font-family: sans-serif;
 }
 
-
-
-
-
-
-
 :root[data-theme="light"]{
     --primary-color: #e2dffb;
     --secondary-color: #AEA9DF;
@@ -61,6 +55,9 @@ h4{
     padding-bottom: 1rem;
 }
 
+h2 h5{
+    font-weight: bold;
+}
 
 p, a{
     padding-top: 0.3rem;
@@ -104,10 +101,6 @@ p, a{
     color: var(--text-default-color);
 }
 
-.txt{
-    stroke-width: 10px;
-    stroke: red;
-}
 
 .logo{
     width: auto;
@@ -127,26 +120,28 @@ p, a{
     transform: scale(1.1);
 }
 
+
 .card{
-    max-height: 18rem;
     max-width: 15rem;
     color: var(--text-default-color);
     background-color: var(--secondary-color);
     box-shadow: 0 0 .2rem var(--shadow-color);
     border: solid var(--shadow-color) 0.01rem;
+    max-height: 16.684rem;
 }
+
 
 .card-img{
     max-height: 9.781rem;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
+    aspect-ratio: 16 / 9;
 }
 
 .card-link{
     display: flex !important;
     justify-content: center !important;
     border-color: red;
-
 }
 
 .card.body{
@@ -156,7 +151,7 @@ p, a{
 
 /*footer start*/
 .fot-list{
-    padding-left: 0px !important;
+    padding-left: 0rem !important;
 }
 
 footer{
