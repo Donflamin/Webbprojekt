@@ -1,8 +1,4 @@
 @font-face {
-  font-family: "Montserrat";
-  src: local("Montserrat"), url("Montserrat/Montserrat-VariableFont_wght.ttf");
-}
-@font-face {
   font-family: "Lato";
   src: local("Lato"), url("Lato/Lato-Regular.ttf");
 }
@@ -18,18 +14,10 @@
     background-position: right;
   }
 }
+
 html {
-  scrollbar-color: #009688 #f5f5f5;
+  overflow-x: hidden;
 }
-html::-webkit-scrollbar {
-  color: rgb(44, 57, 44) rgb(20, 20, 5);
-}
-
-body {
-  font-family: Lato, sans-serif;
-  height: 100%;
-}
-
 h1 {
   color: #f5f5f5;
   animation: text-animation 55s infinite alternate;
@@ -37,63 +25,11 @@ h1 {
   margin-top: 15dvh;
   font-family: Archivo, sans-serif;
 }
-
-h2 {
-  color: #009688;
-  font-size: max(1.5rem, 10vw);
-  font-family: Archivo, sans-serif;
-}
-
-a::before {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 4px;
-  border-radius: 4px;
-  background-color: #18272F;
-  bottom: 0;
-  left: 0;
-  transform-origin: right;
-  transform: scaleX(0);
-  transition: transform 0.3s ease-in-out;
-}
-
-a:hover {
-  color: #f5f5f5;
-  transition: 0.3s;
-}
-
-svg {
-  height: 75%;
-  width: 75%;
-}
-
-a:hover::before {
-  transform-origin: left;
-  transform: scaleX(1);
-}
-
 .section-first {
   background-image: url(../Bilder/natur.webp);
   background-size: cover;
   height: 100dvh;
   margin: 0;
-}
-section {
-  margin-bottom: 0 !important;
-}
-
-article {
-  margin-bottom: 0 !important;
-  margin-top: 0 !important;
-}
-
-.section-second:before {
-  content: "";
-  width: 1vw;
-  height: auto;
-  background-color: rgb(14, 38, 92);
-  margin-bottom: 0 !important;
 }
 
 .gradient-text {
