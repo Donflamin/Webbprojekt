@@ -275,13 +275,13 @@ footer a:hover{
 }
 
 .button-box{
-    width: 5.5vw;
-    height: 5.5vw;
+    width: 4vw;
+    height: 4vw;
     background: var(--dark-color);
     border-radius: 100%; 
     position: fixed;
-    left: 3.5vw;
-    bottom: -2vw;
+    left: 3vw;
+    bottom: -1.2vw;
     transform: translate(-50%, -50%);
     overflow: hidden;
     box-shadow: 0 0 .5rem var(--shadow-color);
@@ -289,8 +289,8 @@ footer a:hover{
 }
 
 .sun{
-    width: 3vw;
-    height: 3vw;
+    width: 2vw;
+    height: 2vw;
     background: var(--mode-color);
     border-radius: 50%;
     cursor: pointer;
@@ -309,35 +309,35 @@ footer a:hover{
 }
   
 .sun .line1{
-    width: 4.5vw;
+    width: 3vw;
     transform:  translate(-50%, -50%);
   
 }
   
 .sun .line2{
-    width: 4.5vw;
+    width: 3vw;
     transform:  translate(-50%, -50%) rotate(90deg);
 }
   
 .sun .line3{
-    width: 4.1vw;
+    width: 2.6vw;
     transform:  translate(-50%, -50%) rotate(45deg);  
 }
   
 .sun .line4{
-    width: 4.1vw;
+    width: 2.6vw;
     transform:  translate(-50%, -50%) rotate(-45deg);
 }
   
 .sun::after{
     content: "";
-    width: 2.9vw;
-    height: 2.9vw;
+    width: 2.1vw;
+    height: 2.1vw;
     background: var(--dark-color);
     border-radius: 50%;
     position: absolute;
-    top: -2.9vw;
-    right: -2.9vw;
+    top: -2.1vw;
+    right: -2.1vw;
     transition: 0.2s;
 }
   
