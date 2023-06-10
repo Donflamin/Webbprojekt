@@ -130,15 +130,16 @@ a:hover{
     color: var(--text-default-color);
 }
 
-.card-link{
-    transition: 0.3s all;
-    
-}
 
 .card-link:hover{
     transform: scale(1.05);
 }
 
+.card-link{
+    max-height: 16.313rem;
+    display: flex;
+    justify-content: center;
+}
 .card{
     max-width: 15rem;
     color: var(--text-default-color);
@@ -153,15 +154,11 @@ a:hover{
     max-height: 8.438rem;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
+    transition: 0.3s all;
+
 }
 
-.card-link{
-    max-height: 16.313rem;
-    display: flex;
-    justify-content: center;
-}
-
-.card.body{
+.card-body{
     word-wrap: break-word;
 }
 /*cards slut*/
