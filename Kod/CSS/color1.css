@@ -150,7 +150,6 @@ a:hover{
 }
 
 .card-img{
-    max-height: 8.438rem;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
 }
@@ -169,8 +168,6 @@ a:hover{
 .fot-list{
     padding-left: 0rem;
 }
-
-
 
 footer{
     -webkit-box-shadow: 0px -1px 8px 4px rgba(0, 0, 0, 0.062);
@@ -354,3 +351,4 @@ footer a:hover{
 .sun.night div{
     width: 0;
 }
+
