@@ -156,6 +156,7 @@ a:hover{
 }
 
 .card-link{
+    max-height: 16.313rem;
     display: flex;
     justify-content: center;
 }
