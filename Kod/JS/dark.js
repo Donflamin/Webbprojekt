@@ -46,6 +46,13 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
         }
     }
   }
+
+let sun = document.getElementById("sun");
+let darkmodebtn = document.getElementById("darkButton")
+
+darkmodebtn.onclick = function(){
+    sun.classList.toggle("night");
+}
   
   // Code for creating, reading and erasing cookies
   function createCookie(name,value,days) {
@@ -74,9 +81,3 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
   createCookie(name,'',-1);
   }
 
-let sun = document.getElementById("sun");
-let darkmodebtn = document.getElementById("darkButton")
-
-darkmodebtn.onclick = function(){
-    sun.classList.toggle("night");
-}
