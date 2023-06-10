@@ -3,29 +3,21 @@
 :root[data-theme="light"]{
     --primary-color: #e2dffb;
     --secondary-color: #AEA9DF;
-    --tertiary-color: #4c6b91;
     --bg-color: #ebeae5;
-    --light-color: #ebf2fa;
-    --dark-color: #171718;
     --navbar-color: #49446c;
     --text-default-color: #0F0F10;
     --shadow-color: #565366;
     --mode-color: #d4df46;
-    --link-color: #d4e7f7;
 }
   
 :root[data-theme="dark"]{
     --primary-color: #211F2F;
     --secondary-color: #393554;
-    --tertiary-color: #326628;
     --bg-color: #141413;
-    --light-color: #ebf2fa;
-    --dark-color: #171718;
-    --navbar-color: #49446c;    
+    --navbar-color: #49446c;
     --text-default-color: #EAE8F8;
     --shadow-color: #0f0e13;
     --mode-color: #d4df46;
-    --link-color: #dedfe0;
 }
 
 /*body/content start*/
