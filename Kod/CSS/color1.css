@@ -150,6 +150,7 @@ a:hover{
 }
 
 .card-img{
+    max-height: 8.438rem;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
 }
