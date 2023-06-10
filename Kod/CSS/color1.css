@@ -135,11 +135,6 @@ a:hover{
     transform: scale(1.05);
 }
 
-.card-link{
-    max-height: 16.313rem;
-    display: flex;
-    justify-content: center;
-}
 .card{
     max-width: 15rem;
     color: var(--text-default-color);
@@ -147,7 +142,9 @@ a:hover{
     box-shadow: 0 0 .2rem var(--shadow-color);
     border: none;
     outline: none;
-    max-height: 16.684rem;
+    max-height: 16.313rem;
+    display: flex;
+    justify-content: center;
 }
 
 .card-img{
