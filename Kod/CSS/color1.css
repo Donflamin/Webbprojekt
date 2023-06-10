@@ -34,8 +34,6 @@ body{
     transition: 0.2s all;
 }
 
-
-  
 .content{
     background-color: var(--secondary-color);
     color: var(--text-default-color);
@@ -88,7 +86,6 @@ p, a{
 
 .bild-2{
     width: 100%;
-    height: auto;
     object-fit: cover;
 }
 
@@ -116,7 +113,6 @@ p, a{
     color: var(--text-default-color);
 }
 
-
 .logo{
     width: auto;
     height: 3.825rem;
@@ -130,28 +126,30 @@ a:hover{
     color: var(--text-default-color);
 }
 
-
 .card-link:hover{
     transform: scale(1.05);
 }
 
 .card{
-    max-width: 15rem;
+    max-width: 20rem;
+    max-height: 16.429rem;
     color: var(--text-default-color);
     background-color: var(--secondary-color);
     box-shadow: 0 0 .2rem var(--shadow-color);
     border: none;
     outline: none;
-    max-height: 16.313rem;
     display: flex;
     justify-content: center;
+    object-fit: cover;
 }
 
 .card-img{
     max-height: 8.438rem;
+    width: 100%;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
     transition: 0.3s all;
+    object-fit: cover;
 
 }
 
